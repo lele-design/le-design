@@ -1,1 +1,1 @@
-# lele mobile component for vue3
+# ui component framework for Vue3, React, svelte
